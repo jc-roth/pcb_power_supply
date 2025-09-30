@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP","Digikey PN","JLCPCB PN"
+"C1,C2,C3,C4,C5,C6,C7,C8","10u","~","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","8","","","C440198"
+"H1,H2","Keystone Electronics 621","~","matterwaves:Keystone 621","2","","36-621-ND",""
+"J1","Conn_Coaxial_Power","~","matterwaves:CUI_PJ-037B","1","","CP-037B-ND",""
+"J2,J3,J4,J5","Conn_01x10_Pin","~","Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical","4","","455-S10B-ZR-ND",""
+"L1,L2","4.7u","~","Inductor_THT:L_Axial_L7.0mm_D3.3mm_P2.54mm_Vertical_Fastron_MICC","2","","535-AIAP-01-4R7K-TCT-ND",""
+"U1,U2","R-78B5.0-2.0","https://g.recomcdn.com/media/Datasheet/pdf/.fldP_2rX/.t124a6889b0e40eeb9ac1/Datasheet-285/R-78B-2_0.pdf","matterwaves:R-78Bxx-2.0","2","","945-3042-ND",""
+"U3,U4","R-78B12-2.0","https://g.recomcdn.com/media/Datasheet/pdf/.fldP_2rX/.t124a6889b0e40eeb9ac1/Datasheet-285/R-78B-2_0.pdf","matterwaves:R-78Bxx-2.0","2","","945-3041-ND",""
